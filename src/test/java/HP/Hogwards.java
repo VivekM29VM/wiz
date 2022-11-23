@@ -1,11 +1,17 @@
 package HP;
 
+import org.testng.annotations.Test;
+
 public class Hogwards {
 
-	public static void main(String[] args) {
-		System.out.println("Albus Dumbledore");
+	@Test()
+	public void HPnw(){
+		
+System.out.println("Albus Dumbledore");
 		
 		System.out.println("Voldamort");
 	}
+		
+	}
 
-}
+
