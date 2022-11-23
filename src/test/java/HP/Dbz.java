@@ -7,7 +7,7 @@ public class Dbz {
 	@Test
 	public void earth() {
 		
-		System.out.println("Goku");
+		System.out.println("Goku god");
 		
 		
 		System.out.println("Vegeta");
