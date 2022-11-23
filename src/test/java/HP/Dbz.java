@@ -9,9 +9,13 @@ public class Dbz {
 		
 		System.out.println("Goku");
 		
+		
 		System.out.println("Vegeta");
 		
+		
 		System.out.println("Broly");
+		
+		
 		
 		System.out.println("Cumber");
 	}
